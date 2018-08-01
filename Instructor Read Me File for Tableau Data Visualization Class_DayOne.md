@@ -49,8 +49,8 @@ c\. Command path(example):
 
 ![](.//Media/image5.png)
 
-a\. **Notice** how the registration form is \[now filled in with generic
-data from Tableau\]{.underline}! All you need to supply is a series of
+a\. **Notice** how the registration form is now filled in with generic
+data from Tableau. All you need to supply is a series of
 numbers for a phone \#. (Make it up)
 
 ![](.//Media/image6.png)
@@ -522,7 +522,7 @@ There is only one data source for them to use:
 [CDWT\_ch8\_NHLTop100.xlsx](https://github.com/ONLC-Classes/XTBD10---Tableau-Data-Visualization/blob/master/Workbooks/Chapter%208/CDWT_ch8_NHLTop100.xlsx)
 
 And at some point, they will also use a photo: [
-[wg.jpg](https://github.com/ONLC-Classes/XTBD10---Tableau-Data-Visualization/blob/master/Workbooks/Chapter%208/wg.jpg)]{.underline}
+[wg.jpg](https://github.com/ONLC-Classes/XTBD10---Tableau-Data-Visualization/blob/master/Workbooks/Chapter%208/wg.jpg)]
 
 These files can be found in the workbooks folder, under Chapter 8.
 
