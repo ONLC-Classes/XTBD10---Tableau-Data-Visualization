@@ -31,7 +31,7 @@ c\. Command path(example):
 
 2.  Choose **Run** command button and select All.
 
-3.  ![](.//Media/image2.png)
+3. <br/> ![](.//Media/image2.png)
 
 4.  Tableau Installation will begin on all selected student
     workstations. Remote into each workstation and choose Install.
