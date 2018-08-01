@@ -14,14 +14,14 @@ guess!**
 
 **A suggestion.... Chapter 13 is about Dashboards, Chapter 14 is about
 Advanced Dashboards. Depending on time, you could do chapter 13 and
-leave chapter 14 as optional or a workshop. **
+leave chapter 14 as optional or a workshop.**
 
 **Day One - Try to complete Chapters 1-8, Day Two, Try to complete
-Chapters 9-14. **
+Chapters 9-14.**
 
 **Since Chapters 1 and 2 should be very quick, you should have no
 trouble getting this schedule done. In longer chapters, you can skip
-labs and make them optional. **
+labs and make them optional.**
 
 **Day Two====**
 
@@ -82,7 +82,7 @@ finished product is on page 169.
 **OPTIONAL**
 
 Page 172 has them create a parameter. They will be using a data source
-here called "slopegraph". (CDWT\_ch9\_Slopegraph.xlsx". This is a cool
+here called "slopegraph". "CDWT\_ch9\_Slopegraph.xlsx". This is a cool
 looking chart and with the parameter, also makes it very efficient.
 There are also three calculated fields on pages 176 and 177 (Delta,
 Better or Worse, and Magnitude" -- these can be copied from the solution
