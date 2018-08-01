@@ -122,14 +122,14 @@ guess!**
 
 **A suggestion.... Chapter 13 is about Dashboards, Chapter 14 is about
 Advanced Dashboards. Depending on time, you could do chapter 13 and
-leave chapter 14 as optional or a workshop. **
+leave chapter 14 as optional or a workshop.**
 
 **Day One - Try to complete Chapters 1-8, Day Two, Try to complete
-Chapters 9-14. **
+Chapters 9-14.**
 
 **Since Chapters 1 and 2 should be very quick, you should have no
 trouble getting this schedule done. In longer chapters, you can skip
-labs and make them optional. **
+labs and make them optional.**
 
 **Day One====**
 
@@ -193,7 +193,7 @@ make up your own walk-through, if desired.
 
 =============
 
-**IMPORTANT: **
+**IMPORTANT:**
 
 **The students will use their actual class book for labs. Although the
 pictures are tiny, the lab instructions are clear to read. The WORKBOOKS
