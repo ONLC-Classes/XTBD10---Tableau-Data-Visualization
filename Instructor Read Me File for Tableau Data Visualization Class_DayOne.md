@@ -24,43 +24,38 @@ computers at one time!)
 > b\. Run Tableau Desktop installer located in the Downloads folder for
 > each student.
 
-![https://github.com/ONLC-Classes/XTBI10\-\--Tableau-Desktop-Level-1/raw/master/media/image1.png](.//media/image1.png){width="11.083333333333334in"
-height="6.114583333333333in"}
+![](.//Media/image1.png)
 
 c\. Command path(example):
 **C:\\users\\student\\downloads\\TableauDesktop-64bit-2018-1-0.exe**
 
 2.  Choose **Run** command button and select All.
 
-3.  ![https://github.com/ONLC-Classes/XTBI10\-\--Tableau-Desktop-Level-1/raw/master/media/image2.png](.//media/image2.png){width="4.416666666666667in"
-    height="5.15625in"}
+3.  ![](.//Media/image2.png)
 
 4.  Tableau Installation will begin on all selected student
     workstations. Remote into each workstation and choose Install.
 
-![https://github.com/ONLC-Classes/XTBI10\-\--Tableau-Desktop-Level-1/raw/master/media/image3.png](.//media/image3.png){width="5.927083333333333in"
-height="4.875in"}
+![](.//Media/image3.png)
 
 5.  Once installer completes, **Tableau Registration** form appears.
 
-![https://github.com/ONLC-Classes/XTBI10\-\--Tableau-Desktop-Level-1/raw/master/media/image4.png](.//media/image4.png){width="4.28125in"
-height="6.020833333333333in"}
+![](.//Media/image4.png)
 
 1.  CANCEL/Close out of this registration and return to the Desktop.
 
 2.  Restart **Tableau Desktop** application from the Desktop icon and
     the **Tableau Registration** form re-appears.
 
-![https://github.com/ONLC-Classes/XTBI10\-\--Tableau-Desktop-Level-1/raw/master/media/image5.png](.//media/image5.png){width="0.90625in"
-height="1.0208333333333333in"}
+![](.//Media/image5.png)
 
 a\. **Notice** how the registration form is \[now filled in with generic
 data from Tableau\]{.underline}! All you need to supply is a series of
 numbers for a phone \#. (Make it up)
 
-![https://github.com/ONLC-Classes/XTBI10\-\--Tableau-Desktop-Level-1/raw/master/media/image6.png](.//media/image6.png){width="4.375in"
-height="6.010416666666667in"}![https://github.com/ONLC-Classes/XTBI10\-\--Tableau-Desktop-Level-1/raw/master/media/image7.png](.//media/image7.png){width="3.96875in"
-height="1.28125in"}
+![](.//Media/image6.png)
+<br/>
+![](.//Media/image7.png)
 
 3.  Click **Start Trial Now**\...and you are done! Tableau Desktop is
     now fully functional for 14-days and ready for your class.
@@ -92,8 +87,7 @@ students to get their files from github:
 3.  Once on the correct repository, instruct the students to find the
     green "Clone or Download" button:
 
-    ![](.//media/image8.png){width="6.105018591426072in"
-    height="4.083903105861768in"}
+    ![](.//Media/image8.png)
 
     Once they click this, have the students save the files as a .ZIP
     file to their desktop. Do not worry that they will get all the files
