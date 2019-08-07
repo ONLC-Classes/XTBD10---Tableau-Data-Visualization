@@ -195,7 +195,7 @@ make up your own walk-through, if desired.
 
 **IMPORTANT:**
 
-**The students will use their actual class book for labs. Although the
+**The students will have the choice to use their actual class book for labs OR now, as of 8/7/2019, there is a Student Lab document located in the root of this Data Visualizations Tableau Repository.  The Lab book is easier, more clear and have more specific instruction.  However, the book can be used for an extra challenge.  Although the
 pictures are tiny, the lab instructions are clear to read. The WORKBOOKS
 folder that the students downloaded contains the SOLUTIONS. So in most
 cases, the students will start with a fresh tableau workbook for each
